@@ -1,0 +1,3 @@
+# SHA-256 hashes (last 8 chars) for key PDFs.
+# Example format:
+# 2025-11-25_broker_confirm_redacted.pdf ... 7fA9c2D1
